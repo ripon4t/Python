@@ -8,7 +8,7 @@ The Automatidata team has reviewed the results of the A/B testing. Now it’s ti
 
 > ### Client: NYC Taxi and Limousine Commission (TLC)
 > ### Consulting Firm: Automatidata
-> ### Team Member: S N M Azizul Hoque
+> ### Team Member: Ripon Dey
 
 ### 1. Introduction
 Automatidata, a leading data consulting firm, tasked our team with building a multiple linear regression model for the NYC Taxi and Limousine Commission (TLC). The objective was to use a year’s worth of collected data to predict taxi fares. As a newly onboarded member of the team, I was involved in various stages of the project, including planning, data exploration, statistical analysis, and model building. This report outlines the key steps and findings from the project.
