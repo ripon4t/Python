@@ -114,7 +114,7 @@ sns.scatterplot(x='actual',
 plt.plot([0,60], [0,60], c='red', linewidth=2)
 plt.title('Actual vs. predicted');
 ```
-![Fig4: Visualization Model Result](https://ripon4t.github.io/Python/blob/main/py4.png)
+![Fig4: Visualization Model Result](https://github.com/ripon4t/Python/blob/main/py4.png)
 
 ### 6. Results & Insights
 The final regression model demonstrated strong predictive power, with the following insights:
