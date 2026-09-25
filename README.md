@@ -64,7 +64,7 @@ ax.set_xlabel('Endpoint')
 ax.set_ylabel('Mean distance to all other points')
 ax.set_title('Mean distance between points taken randomly from normal distribution');
 ````
-![Fig 1:](https://github.com/snmhoque123/python.github.io/blob/main/py1.png)
+![Fig 1:](https://github.com/ripon4t/Python/blob/main/py1.png)
 
 
 ```Python
@@ -79,7 +79,7 @@ plt.xticks([])
 plt.xlabel('Drop-off locations')
 plt.title('Histogram of rides by drop-off location', fontsize=16);
 ```
-![Fig2: ](https://github.com/snmhoque123/python.github.io/blob/main/py2.png)
+![Fig2: ](https://github.com/ripon4t/Python/blob/main/py2.png)
 
 ### 4. A/B Testing Results
 To verify the effectiveness of different model features and strategies, the team conducted A/B testing. Different versions of the dataset and model were tested to determine which version led to the most accurate fare predictions. These tests confirmed that including time-related features (e.g., rush hours and weekdays) significantly improved the model’s performance.
@@ -99,7 +99,7 @@ plt.title('Correlation heatmap',
           fontsize=18)
 plt.show()
 ```
-![Fig3: Correlation Heatmap](https://github.com/snmhoque123/python.github.io/blob/main/py3.png)
+![Fig3: Correlation Heatmap](https://github.com/ripon4t/Python/blob/main/py3.png)
 
 ```Python
 fig, ax = plt.subplots(figsize=(6, 6))
@@ -138,13 +138,13 @@ This project showcased the power of data analysis and machine learning in derivi
 - [ ] A/B Testing
 
 ## References: 
-[^1]: ###  [Step 1: Translate Data into Insights](https://github.com/snmhoque123/google_eda_python/blob/main/Activity_Course%203%20Automatidata%20project%20lab.ipynb)
-[^2]: ###  [Step 2: Statistical Analysis](https://github.com/snmhoque123/google_stat_python/blob/main/Activity_%20Course%204%20Automatidata%20project%20lab.ipynb)
-[^3]: ###  [Step 3: Regression Analysis: Simplify complex data relationships](https://github.com/snmhoque123/google_regression_repository/blob/main/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
+[^1]: ###  [Step 1: Translate Data into Insights](https://github.com/ripon4t/Python/blob/main/Activity_Course%203%20Automatidata%20project%20lab.ipynb)
+[^2]: ###  [Step 2: Statistical Analysis](https://github.com/ripon4t/Python/blob/main/Activity_%20Course%204%20Automatidata%20project%20lab.ipynb)
+[^3]: ###  [Step 3: Regression Analysis: Simplify complex data relationships](https://github.com/ripon4t/Python/blob/main/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
 
 
 Besides, I completed IBM Data Analysis with Python. Please check the IBM Python Project:
-### [Python Project Link:](https://github.com/snmhoque123/python_project/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb)
+### [Python Project Link:](https://github.com/ripon4t/Python/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb)
 
 ### Applied the following 🔑 Key Skills:
 - [ ] Using Pandas, Numpy and Scipy libraries for data manipulation
