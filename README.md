@@ -138,13 +138,11 @@ This project showcased the power of data analysis and machine learning in derivi
 - [ ] A/B Testing
 
 ## References: 
-[^1]: ###  [Step 1: Translate Data into Insights](https://github.com/ripon4t/Python/blob/main/Activity_Course%203%20Automatidata%20project%20lab.ipynb)
-[^2]: ###  [Step 2: Statistical Analysis](https://github.com/ripon4t/Python/blob/main/Activity_%20Course%204%20Automatidata%20project%20lab.ipynb)
-[^3]: ###  [Step 3: Regression Analysis: Simplify complex data relationships](https://github.com/ripon4t/Python/blob/main/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
+[^1]: ###  [Translate Data into Insights](https://github.com/ripon4t/Creations/blob/master/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
 
 
 Besides, I completed IBM Data Analysis with Python. Please check the IBM Python Project:
-### [Python Project Link:](https://github.com/ripon4t/Python/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb)
+### [Python Project Link:](https://github.com/ripon4t/Creations/blob/master/Activity_%20Course%205%20Automatidata%20project%20lab.ipynb)
 
 ### Applied the following 🔑 Key Skills:
 - [ ] Using Pandas, Numpy and Scipy libraries for data manipulation
